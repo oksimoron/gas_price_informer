@@ -1,0 +1,5 @@
+
+{
+    "jsonRpcUrl": "https://api.mycryptoapi.com/eth",
+     "debug": true                        
+  }
